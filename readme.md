@@ -6,4 +6,5 @@
 ## log4j
 ### log4j CVE-2021-44228 JNDI 注入 工具
 
-
+## mimikatz
+###利用RGB进行Bypass
