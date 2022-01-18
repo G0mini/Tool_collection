@@ -1,5 +1,5 @@
 ## JNDI文件夹
-###用法
+### 用法
 java -jar JNDIExploit.jar -h查看参数
 ```
 Usage: java -jar JNDIExploit.jar [options]
@@ -101,3 +101,14 @@ list：基于XXE查看目标服务器上的目录或文件内容
 upload：基于XXE的jar协议将恶意jar包上传至目标服务器的临时目录
 rce：加载已上传至目标服务器临时目录的jar包，从而达到远程代码执行的效果（这一步本地未复现成功，抛java.lang.IllegalStateException: For application client runtime, the client factory execute on a managed server thread is not allowed.异常，有复现成功的小伙伴麻烦指导下）
 ```
+#### 来自:github 作者已删除 备份img
+
+##  NDIMonitor
+
+一个LDAP请求监听器，摆脱dnslog平台
+
+#### 来自:https://github.com/r00tSe7en/JNDIMonitor
+
+## JNDI-Injection-Exploit-1.0-SNAPSHOT-all
+
+###来自https://github.com/welk1n/JNDI-Injection-Exploit
